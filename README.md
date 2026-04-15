@@ -1,14 +1,14 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=23573991&assignment_repo_type=AssignmentRepo)
 # Day 10 Lab: Data Pipeline & Data Observability
 
-**Student Email:** email@example.com
-**Name:** (Dien ten cua ban)
+**Student Email:** nguyenletrung2002@gmail.com
+**Name:** Nguyễn Lê Trung
 
 ---
 
 ## Mo ta
 
-(Mo ta ngan gon bai lab va nhung gi ban da lam)
+Bài lab cung cấp code đơn giản về bước làm sạch và chuẩn hóa dữ liệu, sau đó mô phỏng câu trả lời của agent dựa trên dữ liệu đã cung cấp.
 
 ---
 
@@ -28,7 +28,7 @@ python solution.py
 ```bash
 # Mo ta cach ban chay thi nghiem Clean vs Garbage data
 ```
-
+Code mẫu được cung cấp trong file agent_simulation với cùng input câu hỏi là What is the best electronic product? và agent sẽ trả lời với món đồ điện tử giá cao nhất.
 ---
 
 ## Cau truc thu muc
@@ -44,4 +44,4 @@ python solution.py
 
 ## Ket qua
 
-(Tom tat ket qua: bao nhieu records da xu ly, bao nhieu bi loai, v.v.)
+Tổng cộng có 5 mẫu record trong đó đã loại bỏ 2 mẫu không hợp lệ, còn lại 3 clean record.
